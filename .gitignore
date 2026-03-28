@@ -1,0 +1,15 @@
+# Configuration locale (contient des mots de passe)
+config.json
+
+# Logs
+*.log
+firebase-debug.log
+
+# Build et distribution
+build/
+dist/
+*.spec
+
+# Python cache
+__pycache__/
+*.pyc

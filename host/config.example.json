@@ -1,0 +1,18 @@
+{
+    "profiles": {
+        "VPS_PROD": {
+            "host": "0.0.0.0",
+            "user": "root",
+            "password": "VOTRE_MOT_DE_PASSE",
+            "base_domain": "votre-domaine.com",
+            "sites": {
+                "test.votre-domaine.com": {
+                    "db_name": "test_db",
+                    "db_user": "test_user",
+                    "db_pass": "test_pass"
+                }
+            }
+        }
+    },
+    "last_profile": "VPS_PROD"
+}
