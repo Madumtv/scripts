@@ -1,5 +1,7 @@
 # 🚀 Apache VPS Manager
 
+![Interface de l'application](screenshot.png)
+
 Un outil puissant et élégant pour administrer vos serveurs Apache distants directement depuis votre bureau. Gérez vos domaines, configurez le SSL et surveillez votre serveur en un clic.
 
 ---
