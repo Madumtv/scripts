@@ -2,6 +2,16 @@
 
 ![Interface de l'application](screenshot.png)
 
+<div align="center">
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![PySide6](https://img.shields.io/badge/PySide6-217346?style=for-the-badge&logo=qt&logoColor=white)](https://doc.qt.io/qtforpython-6/)
+[![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)](https://httpd.apache.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge&logo=openssh&logoColor=white)](https://www.openssh.com/)
+
+</div>
+
 Un outil puissant et élégant pour administrer vos serveurs Apache distants directement depuis votre bureau. Gérez vos domaines, configurez le SSL et surveillez votre serveur en un clic.
 
 ---
